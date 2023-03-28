@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Final verification work\bin\Debug\net6.0\Final verification work.exe
+C:\Users\Asus\Desktop\Final verification work\bin\Debug\net6.0\Final verification work.deps.json
+C:\Users\Asus\Desktop\Final verification work\bin\Debug\net6.0\Final verification work.runtimeconfig.json
+C:\Users\Asus\Desktop\Final verification work\bin\Debug\net6.0\Final verification work.dll
+C:\Users\Asus\Desktop\Final verification work\bin\Debug\net6.0\Final verification work.pdb
+C:\Users\Asus\Desktop\Final verification work\obj\Debug\net6.0\Final verification work.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Final verification work\obj\Debug\net6.0\Final verification work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Final verification work\obj\Debug\net6.0\Final verification work.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Final verification work\obj\Debug\net6.0\Final verification work.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Final verification work\obj\Debug\net6.0\Final verification work.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Final verification work\obj\Debug\net6.0\Final verification work.dll
+C:\Users\Asus\Desktop\Final verification work\obj\Debug\net6.0\refint\Final verification work.dll
+C:\Users\Asus\Desktop\Final verification work\obj\Debug\net6.0\Final verification work.pdb
+C:\Users\Asus\Desktop\Final verification work\obj\Debug\net6.0\Final verification work.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Final verification work\obj\Debug\net6.0\ref\Final verification work.dll
